@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="280" height="70" viewBox="0 0 280 70">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 30.004px;
+        font-family: NanumGothic;
+      }
+    </style>
+  </defs>
+  <image id="배경" width="280" height="70" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAARgAAABGCAYAAAAXfYu/AAAA+ElEQVR4nO3UMQHAQAzEsLT8Od+j8CZB8OBv2w4g8IsKVAwGyBgMkDEYIGMwQMZggIzBABmDATIGA2QMBsgYDJAxGCBjMEDGYICMwQAZgwEyBgNkDAbIGAyQMRggYzBAxmCAjMEAGYMBMgYDZAwGyBgMkDEYIGMwQMZggIzBABmDATIGA2QMBsgYDJAxGCBjMEDGYICMwQAZgwEyBgNkDAbIGAyQMRggYzBAxmCAjMEAGYMBMgYDZAwGyBgMkDEYIGMwQMZggIzBABmDATIGA2QMBsgYDJAxGCBjMEDGYICMwQAZgwEyBgNkDAbIGAyQMRggYzBA4+4ek6IEiCaIDfMAAAAASUVORK5CYII="/>
+  <text id="텍스트_테스트" data-name="텍스트 테스트" class="cls-1" x="44" y="46">텍스트 테스트</text>
+</svg>
